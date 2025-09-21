@@ -39,7 +39,7 @@ It is designed to **automate web application testing** and provide **detailed te
  ┃ ┃ ┃ ┃ ┣ 📜 HomePage      # Page object for Home page
  ┃ ┃ ┃ ┃ ┗ 📜 QAJobsPage    # Page object for QA jobs section
  ┃ ┃ ┃ ┣ 📂 tests           # Test cases
- ┃ ┃ ┃ ┃ ┗ 📜 Ramazan_Aydogdu_Test  # Main test suite
+ ┃ ┃ ┃ ┃ ┗ 📜 AsimMuhsin_Basaran_Test  # Main test suite
  ┃ ┃ ┃ ┣ 📂 utils           # Common utilities for tests
  ┃ ┃ ┃ ┃ ┗ 📜 CommonLib     # Shared utility methods
  ┃ ┃ ┃ ┣ 📂 resources       # Configuration & Test Data
