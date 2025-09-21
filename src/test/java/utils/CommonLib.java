@@ -12,7 +12,7 @@ import java.time.Duration;
 import java.util.List;
 import java.util.Set;
 
-import static tests.Ramazan_Aydogdu_Test.homePage;
+import static tests.AsimMuhsin_Basaran_Test.homePage;
 
 
 public class CommonLib {

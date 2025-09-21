@@ -14,13 +14,13 @@ import utils.CommonLib;
 import utils.DriverManager;
 
 @Listeners({AllureTestNg.class})
-public class Ramazan_Aydogdu_Test {
+public class AsimMuhsin_Basaran_Test {
     private static WebDriver driver;
     public static HomePage homePage;
     private static CareersPage careersPage;
     private static QAJobsPage qaJobsPage;
     private static SoftAssert softAssert;
-    private static final Logger log = LogManager.getLogger(Ramazan_Aydogdu_Test.class);
+    private static final Logger log = LogManager.getLogger(AsimMuhsin_Basaran_Test.class);
 
     @BeforeClass
     @Step("Test süresince aynı WebDriver'ı kullan")

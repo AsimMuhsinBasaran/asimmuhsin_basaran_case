@@ -1,7 +1,7 @@
 <suite name="Regression Test Suite" parallel="false" thread-count="2">
     <test name="Insider Test Suite">
         <classes>
-            <class name="tests.Ramazan_Aydogdu_Test"/>
+            <class name="tests.AsimMuhsin_Basaran_Test"/>
         </classes>
     </test>
 </suite>

@@ -263,3 +263,106 @@ Session ID: 7763638b94ed435cfa019f4361988fd0
 2025-03-04 01:41:50 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Application For This Job Button (Locator: By.xpath: //div[@class='postings-btn-wrapper']/a[.='Apply for this job'])
 2025-03-04 01:41:51 INFO  DriverManager:33 - WebDriver kapatılıyor...
 2025-03-04 01:41:51 INFO  DriverManager:36 - WebDriver başarıyla kapatıldı.
+2025-09-17 16:38:10 INFO  Ramazan_Aydogdu_Test:28 - Test başlamadan önce WebDriver başlatılıyor...
+2025-09-17 16:38:10 INFO  DriverManager:16 - Yeni WebDriver başlatılıyor...
+2025-09-17 16:38:18 INFO  DriverManager:25 - WebDriver başarıyla başlatıldı.
+2025-09-17 16:38:18 INFO  HomePage:32 - Ana Sayfa açılıyor...
+2025-09-17 16:38:21 INFO  HomePage:41 - Checking HomePage Display
+2025-09-17 16:38:21 INFO  HomePage:42 - Expected URL: https://useinsider.com/
+2025-09-17 16:38:21 INFO  HomePage:43 - Actual URL: https://useinsider.com/
+2025-09-17 16:38:21 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[@id='wt-cli-accept-all-btn']
+2025-09-17 16:38:21 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[@id='wt-cli-accept-all-btn']
+2025-09-17 16:38:21 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[contains(.,'Company')]
+2025-09-17 16:38:21 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[contains(.,'Company')]
+2025-09-17 16:38:21 INFO  CommonLib:73 - 📸 Element tıklama sonrası ekran görüntüsü alınıyor...
+2025-09-17 16:38:22 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[contains(.,'Careers')]
+2025-09-17 16:38:23 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[contains(.,'Careers')]
+2025-09-17 16:38:23 INFO  CareersPage:43 - Checking CareerPage Display
+2025-09-17 16:38:23 INFO  CareersPage:44 - Expected URL: https://useinsider.com/careers/
+2025-09-17 16:38:23 INFO  CareersPage:45 - Actual URL: https://useinsider.com/careers/
+2025-09-17 16:38:23 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Locations Block (Locator: By.xpath: //h3[contains(., 'Our Locations')])
+2025-09-17 16:38:24 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Locations Block (Locator: By.xpath: //h3[contains(., 'Our Locations')])
+2025-09-17 16:38:24 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Teams Block (Locator: By.xpath: //h3[contains(.,'Find your calling')])
+2025-09-17 16:38:24 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Teams Block (Locator: By.xpath: //h3[contains(.,'Find your calling')])
+2025-09-17 16:38:24 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Life At Insider Block (Locator: By.xpath: //h2[.='Life at Insider'])
+2025-09-17 16:38:24 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Life At Insider Block (Locator: By.xpath: //h2[.='Life at Insider'])
+2025-09-17 16:38:24 INFO  QAJobsPage:39 - QA Jobs Page açılıyor...
+2025-09-17 16:38:25 INFO  QAJobsPage:46 - Checking QA Jobs Page Display
+2025-09-17 16:38:25 INFO  QAJobsPage:47 - Expected URL: https://useinsider.com/careers/quality-assurance/
+2025-09-17 16:38:25 INFO  QAJobsPage:48 - Actual URL: https://useinsider.com/careers/quality-assurance/
+2025-09-17 16:38:25 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.cssSelector: .btn-outline-secondary
+2025-09-17 16:38:26 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.cssSelector: .btn-outline-secondary
+2025-09-17 16:38:26 INFO  CommonLib:104 - ⏳ Bekleniyor: 'Quality Assurance' metni 'By.cssSelector: [title='Quality Assurance']' elementinde görünsün.
+2025-09-17 16:38:30 INFO  CommonLib:106 - ✅ Metin bulundu: 'Quality Assurance' -> By.cssSelector: [title='Quality Assurance']
+2025-09-17 16:38:30 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.cssSelector: #select2-filter-by-location-container
+2025-09-17 16:38:30 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.cssSelector: #select2-filter-by-location-container
+2025-09-17 16:38:30 INFO  CommonLib:73 - 📸 Element tıklama sonrası ekran görüntüsü alınıyor...
+2025-09-17 16:38:31 INFO  CommonLib:92 - 🔽 Seçilecek dropdown değeri bulundu: Istanbul, Turkiye
+2025-09-17 16:38:31 INFO  CommonLib:94 - ✅ Dropdown değeri başarıyla seçildi: Istanbul, Turkiye
+2025-09-17 16:38:31 INFO  CommonLib:209 - 🔍 Kontrol ediliyor: No Job Result (Locator: By.cssSelector: .no-job-result)
+2025-09-17 16:38:31 INFO  CommonLib:214 - ✅ ELEMENT YOK: No Job Result sayfada bulunamadı.
+2025-09-17 16:38:31 INFO  CommonLib:104 - ⏳ Bekleniyor: 'View Role' metni 'By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']' elementinde görünsün.
+2025-09-17 16:38:31 INFO  CommonLib:106 - ✅ Metin bulundu: 'View Role' -> By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Senior Software Quality Assurance Engineer' (Beklenen: 'Software')
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Software Quality Assurance Engineer' (Beklenen: 'Software')
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Quality Assurance' (Beklenen: 'Quality Assurance')
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Quality Assurance' (Beklenen: 'Quality Assurance')
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Istanbul, Turkiye' (Beklenen: 'Istanbul')
+2025-09-17 16:38:31 INFO  CommonLib:162 - 🔍 Kontrol edilen element metni: 'Istanbul, Turkiye' (Beklenen: 'Istanbul')
+2025-09-17 16:38:31 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']
+2025-09-17 16:38:42 ERROR CommonLib:77 - ❌ Element tıklanamadı: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc'] - Hata: Expected condition failed: waiting for element to be clickable: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.0', revision: '267030adea'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6', java.version: '17.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 140.0.7339.133, chrome: {chromedriverVersion: 140.0.7339.82 (bc93617e21c3..., userDataDir: /var/folders/gt/r64w8hm96vq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49429}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:49429/devtoo..., se:cdpVersion: 140.0.7339.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 950e453900ec8c3aeb3dbb534b8f5d11
+2025-09-17 16:38:42 INFO  DriverManager:33 - WebDriver kapatılıyor...
+2025-09-17 16:38:42 INFO  DriverManager:36 - WebDriver başarıyla kapatıldı.
+2025-09-17 17:15:08 INFO  AsimMuhsin_Basaran_Test:28 - Test başlamadan önce WebDriver başlatılıyor...
+2025-09-17 17:15:08 INFO  DriverManager:16 - Yeni WebDriver başlatılıyor...
+2025-09-17 17:15:09 INFO  DriverManager:25 - WebDriver başarıyla başlatıldı.
+2025-09-17 17:15:09 INFO  HomePage:32 - Ana Sayfa açılıyor...
+2025-09-17 17:15:14 INFO  HomePage:41 - Checking HomePage Display
+2025-09-17 17:15:14 INFO  HomePage:42 - Expected URL: https://useinsider.com/
+2025-09-17 17:15:14 INFO  HomePage:43 - Actual URL: https://useinsider.com/
+2025-09-17 17:15:14 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[@id='wt-cli-accept-all-btn']
+2025-09-17 17:15:15 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[@id='wt-cli-accept-all-btn']
+2025-09-17 17:15:15 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[contains(.,'Company')]
+2025-09-17 17:15:15 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[contains(.,'Company')]
+2025-09-17 17:15:15 INFO  CommonLib:73 - 📸 Element tıklama sonrası ekran görüntüsü alınıyor...
+2025-09-17 17:15:15 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[contains(.,'Careers')]
+2025-09-17 17:15:16 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[contains(.,'Careers')]
+2025-09-17 17:15:16 INFO  CareersPage:43 - Checking CareerPage Display
+2025-09-17 17:15:16 INFO  CareersPage:44 - Expected URL: https://useinsider.com/careers/
+2025-09-17 17:15:16 INFO  CareersPage:45 - Actual URL: https://useinsider.com/careers/
+2025-09-17 17:15:16 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Locations Block (Locator: By.xpath: //h3[contains(., 'Our Locations')])
+2025-09-17 17:15:16 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Locations Block (Locator: By.xpath: //h3[contains(., 'Our Locations')])
+2025-09-17 17:15:16 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Teams Block (Locator: By.xpath: //h3[contains(.,'Find your calling')])
+2025-09-17 17:15:17 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Teams Block (Locator: By.xpath: //h3[contains(.,'Find your calling')])
+2025-09-17 17:15:17 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Life At Insider Block (Locator: By.xpath: //h2[.='Life at Insider'])
+2025-09-17 17:15:17 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Life At Insider Block (Locator: By.xpath: //h2[.='Life at Insider'])
+2025-09-17 17:15:17 INFO  QAJobsPage:39 - QA Jobs Page açılıyor...
+2025-09-17 17:15:18 INFO  QAJobsPage:46 - Checking QA Jobs Page Display
+2025-09-17 17:15:18 INFO  QAJobsPage:47 - Expected URL: https://useinsider.com/careers/quality-assurance/
+2025-09-17 17:15:18 INFO  QAJobsPage:48 - Actual URL: https://useinsider.com/careers/quality-assurance/
+2025-09-17 17:15:18 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.cssSelector: .btn-outline-secondary
+2025-09-17 17:15:19 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.cssSelector: .btn-outline-secondary
+2025-09-17 17:15:19 INFO  CommonLib:104 - ⏳ Bekleniyor: 'Quality Assurance' metni 'By.cssSelector: [title='Quality Assurance']' elementinde görünsün.
+2025-09-17 17:15:25 INFO  CommonLib:106 - ✅ Metin bulundu: 'Quality Assurance' -> By.cssSelector: [title='Quality Assurance']
+2025-09-17 17:15:25 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.cssSelector: #select2-filter-by-location-container
+2025-09-17 17:15:25 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.cssSelector: #select2-filter-by-location-container
+2025-09-17 17:15:25 INFO  CommonLib:73 - 📸 Element tıklama sonrası ekran görüntüsü alınıyor...
+2025-09-17 17:15:25 INFO  CommonLib:92 - 🔽 Seçilecek dropdown değeri bulundu: Istanbul, Turkiye
+2025-09-17 17:15:25 INFO  CommonLib:94 - ✅ Dropdown değeri başarıyla seçildi: Istanbul, Turkiye
+2025-09-17 17:15:25 INFO  CommonLib:209 - 🔍 Kontrol ediliyor: No Job Result (Locator: By.cssSelector: .no-job-result)
+2025-09-17 17:15:25 INFO  CommonLib:214 - ✅ ELEMENT YOK: No Job Result sayfada bulunamadı.
+2025-09-17 17:15:25 INFO  CommonLib:104 - ⏳ Bekleniyor: 'View Role' metni 'By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']' elementinde görünsün.
+2025-09-17 17:15:35 ERROR CommonLib:108 - ❌ TimeoutException: Beklenen metin 'View Role' belirtilen elementte görünmedi: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']
+2025-09-17 17:15:36 INFO  CommonLib:65 - ⏳ Tıklanacak element bekleniyor: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']
+2025-09-17 17:15:41 INFO  CommonLib:69 - ✅ Element başarıyla tıklandı: By.xpath: //a[@href='https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc']
+2025-09-17 17:15:41 INFO  CommonLib:134 - 🔄 Açık sekmeler: [7B3E6BBE1632A83967A042041582A4BC, AC1832B5C52B92E2DE4E60B919547F0C]
+2025-09-17 17:15:48 INFO  CommonLib:139 - ✅ Yeni sekmeye geçildi: Insider. - Senior Software Quality Assurance Engineer
+2025-09-17 17:15:48 INFO  CommonLib:180 - 🔍 Kontrol ediliyor: Application For This Job Button (Locator: By.xpath: //div[@class='postings-btn-wrapper']/a[.='Apply for this job'])
+2025-09-17 17:15:48 INFO  CommonLib:189 - ✅ ELEMENT GÖRÜNTÜLENDİ: Application For This Job Button (Locator: By.xpath: //div[@class='postings-btn-wrapper']/a[.='Apply for this job'])
+2025-09-17 17:15:48 INFO  DriverManager:33 - WebDriver kapatılıyor...
+2025-09-17 17:15:48 INFO  DriverManager:36 - WebDriver başarıyla kapatıldı.
